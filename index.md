@@ -1,2 +1,6 @@
-# Hello, world!
-Welcome to my first GitHub Pages blog.
+---
+layout: home
+title: Home
+---
+
+Welcome! New posts appear below.
