@@ -50,3 +50,6 @@ No—Hope Harbor is a smaller, home-style care setting emphasizing personalized 
 
 **How much does assisted living cost in the area?**  
 A Place for Mom lists **~$4,628/mo** for Mount Pleasant (local average), providing a comparison point for families. :contentReference[oaicite:15]{index=15}
+
+[![Watch on YouTube](https://img.youtube.com/vi/89BVRhTbVTs/0.jpg)](https://www.youtube.com/watch?v=89BVRhTbVTs)
+
